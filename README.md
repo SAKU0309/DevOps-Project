@@ -3,12 +3,12 @@
 A full-stack **E-Commerce Bookstore** built using the **MERN Stack (MongoDB, Express.js, React, Node.js)**.
 
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend:** React, Redux Toolkit, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB with Mongoose ORM
 
-## 📌 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -27,6 +27,6 @@ A full-stack **E-Commerce Bookstore** built using the **MERN Stack (MongoDB, Exp
    npm start
    ```
 
-## 📸 Screenshots
+## Screenshots
 ![Screenshot 2025-03-10 215602](https://github.com/user-attachments/assets/f5082774-f70f-4baa-b71c-6493cb94008b)
 ![Screenshot 2025-03-10 215619](https://github.com/user-attachments/assets/17cb25da-21b1-45cf-95f6-22d55d510bad)
